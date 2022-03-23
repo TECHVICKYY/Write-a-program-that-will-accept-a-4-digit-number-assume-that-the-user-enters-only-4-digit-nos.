@@ -1,0 +1,1 @@
+# Write-a-program-that-will-accept-a-4-digit-number-assume-that-the-user-enters-only-4-digit-nos.-an
